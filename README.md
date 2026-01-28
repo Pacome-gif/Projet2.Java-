@@ -1,5 +1,5 @@
 Description du Projet :
-Les étudiants doivent concevoir une application qui permet de :
+Ce projet consiste à concevoir une application qui permet de :
 1. Ajouter, modifier et supprimer des livres dans la bibliothèque.
 2. Gérer les membres inscrits à la bibliothèque.
 3. Gérer les emprunts et retours de livres.
